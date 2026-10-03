@@ -2,5 +2,6 @@
   "version": "1.1.0",
   "updatePolicy": "optional",
   "minSupportedVersion": "1.0.2",
-  "releaseNotes": "YENİ SÜRÜMÜ TALEP EDİNİZ!!\n\nYeni Adak ve Zekâtlık modülleri eklenmiştir. Modüllerden kaynaklı otomatik yevmiye numarası verme sorunu giderilmiştir. Hububat modülünde yaşanan stok sorunu giderilmiştir. Hesap planı güncellenmiş ve veritabanı yapısında iyileştirmeler yapılmıştır."
+  "releaseNotes": "YENİ SÜRÜMÜ TALEP EDİNİZ!!\n\nYeni Adak ve Zekâtlık modülleri eklenmiştir. Modüllerden kaynaklı otomatik yevmiye numarası verme sorunu giderilmiştir. Hububat modülünde yaşanan stok sorunu giderilmiştir. Hesap planı güncellenmiş ve veritabanı yapısında iyileştirmeler yapılmıştır.",
+  "announcement": "Yeni güncelleme için çalışmalara başladık."
 }
