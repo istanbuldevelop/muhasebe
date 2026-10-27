@@ -1,6 +1,6 @@
 {
   "version": "9.9.9",
-  "updatePolicy": "optional",
+  "updatePolicy": "mandatory",
   "minSupportedVersion": "9.9.9",
   "releaseNotes": "⚠️⚠️⚠️ BU PROGRAM KULLANIMA KAPATILMIŞTIR.",
   "announcement": ""
