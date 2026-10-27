@@ -1,7 +1,7 @@
 {
-  "version": "9.9.9",
+  "version": "2.0.0",
   "updatePolicy": "optional",
-  "minSupportedVersion": "2.0.1",
-  "releaseNotes": "⚠️⚠️⚠️ BU PROGRAM KULLANIMA KAPATILMIŞTIR. ARTIK YENİ GÜNCELLEME GELMEYECEKTİR.",
+  "minSupportedVersion": "1.2.0",
+  "releaseNotes": "⚠️⚠️⚠️ BU PROGRAM KULLANIMA KAPATILACAKTIR. VERİLERİNİZİ YEDEKLEMEYİ UNUTMAYIN.",
   "announcement": ""
 }
