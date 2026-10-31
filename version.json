@@ -3,7 +3,7 @@
   "updatePolicy": "optional",
   "minSupportedVersion": "2.0.0",
   "releaseNotes": "⚠️ 10 kata kadar daha hafif ve daha hızlı.",
-  "announcement": ""
+  "announcement": "",
   "disabled": true,
   "disabledMessage": "Lisans süreniz dolmuştur. İletişim: ...",
   "disabledVersions": ["1.9.0"]
