@@ -6,6 +6,5 @@
   "announcement": "",
   "disabled": false,
   "disabledMessage": "Lisans süreniz dolmuştur. İletişim: ...",
-  "disabledVersions": ["9.9.9"],
-  "downloadUrl": "https://raw.githubusercontent.com/istanbuldevelop/muhasebe/refs/heads/releases/Baskul-2.0.0.zip"
+  "disabledVersions": ["9.9.9"]
 }
