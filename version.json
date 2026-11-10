@@ -1,10 +1,11 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.2",
   "updatePolicy": "optional",
-  "minSupportedVersion": "2.0.0",
+  "minSupportedVersion": "2.0.2",
   "releaseNotes": "⚠️ 10 kata kadar daha hafif ve daha hızlı.",
   "announcement": "",
   "disabled": false,
-  "disabledMessage": "Lisans süreniz dolmuştur. İletişim: ...",
-  "disabledVersions": ["9.9.9"]
+  "disabledMessage": "Lisans süreniz dolmuştur.",
+  "disabledVersions": ["9.9.9"],
+  "downloadUrl": "https://raw.githubusercontent.com/istanbuldevelop/muhasebe/refs/heads/main/Baskul-2.0.2.zip"
 }
